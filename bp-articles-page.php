@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: BP Add Articles Page
- * Plugin URI:  https://shameem.in
+ * Plugin URI:  https://github.com/5H4M33M/bp-articles-page.git
  * Description: Adding a page to BuddyPress profiles which show's articles published by BP user
  * Author:      Shameem
  * Author URI:  https://shameem.in
